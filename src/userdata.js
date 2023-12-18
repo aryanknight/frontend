@@ -1,0 +1,85 @@
+var user_data = [
+  {
+    name: "John Doe",
+    id: 1,
+    profile_img:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80",
+    phone: "555-1234",
+    email: "john.doe@example.com",
+    position: "Manager",
+  },
+  {
+    name: "Jane Smith",
+    id: 2,
+    profile_img:'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-5678",
+    email: "jane.smith@example.com",
+    position: "Developer",
+  },
+  {
+    name: "Bob Johnson",
+    id: 3,
+    profile_img:'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-8765",
+    email: "bob.johnson@example.com",
+    position: "Designer",
+  },
+  {
+    name: "Alice Williams",
+    id: 4,
+    profile_img:' https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-4321",
+    email: "alice.williams@example.com",
+    position: "Analyst",
+  },
+  {
+    name: "Charlie Brown",
+    id: 5,
+    profile_img:' https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-9876",
+    email: "charlie.brown@example.com",
+    position: "Intern",
+  },
+  {
+    name: "Eva Davis",
+    id: 6,
+    profile_img:' https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-6543",
+    email: "eva.davis@example.com",
+    position: "Manager",
+  },
+  {
+    name: "Frank Wilson",
+    id: 7,
+    profile_img:'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-2345",
+    email: "frank.wilson@example.com",
+    position: "Developer",
+  },
+  {
+    name: "Grace Miller",
+    id: 8,
+    profile_img:'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-8765",
+    email: "grace.miller@example.com",
+    position: "Designer",
+  },
+  {
+    name: "Henry Lee",
+    id: 9,
+    profile_img:'  https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80'
+    ,phone: "555-3456",
+    email: "henry.lee@example.com",
+    position: "Analyst",
+  },
+  {
+    name: "Ivy Clark",
+    id: 10,
+    profile_img:' https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=320&h=320&q=80',
+    phone: "555-7890",
+    email: "ivy.clark@example.com",
+    position: "Intern",
+  },
+];
+
+export default user_data;
